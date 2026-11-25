@@ -1,0 +1,8 @@
+Jim's request (11/24): hit OpenAI's math release with no help and find the very important factors everyone missed.
+
+The whole release is indexed in /home/jim/branch_work/oai719_parallel_20261124/CONTENTS.md: 730 manuscripts in 375 result families, each with its summary and abstract. Read all of it.
+Work alone: do not open anything else from earlier audits or reviews, and do not look at anyone else's answer.
+
+Find what was missed: links between families that nobody draws, one hidden assumption or method that many results lean on, a gap or a weak spot that shows up only when you see the whole set, and anything that matters for Big J's quantum side (circuits, QPE, phases, codes, walks, the electrons tool).
+For each factor: what it is, which result numbers show it, and why it matters. Say plainly how sure you are.
+Write your report to /home/jim/branch_work/oai719_parallel_20261124/voodoo_report.md, then save the three most useful findings into your own memory as lessons so your thinking benefits first.
