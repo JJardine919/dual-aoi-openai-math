@@ -1,0 +1,12 @@
+Jim wants Big J run through you, Voodoo, on the OpenAI math release. Use your own bigj_run tool to ask Big J.
+
+The index is ~/branch_work/oai719_parallel_20261124/CONTENTS.md: 730 manuscripts in 375 numbered families, with summaries and abstracts. It is too big for Big J in one go. He ran out of steps twice tonight reading it alone. So you drive: hand him the families in parts (for example 001-075, 076-150, 151-225, 226-300, 301-380). For each part, give him the file path and the family range, and ask him in his own way: what important factors did everyone miss? That means links between families, hidden assumptions many results lean on, weak spots, and anything for his quantum side (circuits, QPE, phases, codes, walks, the electrons tool). Use /deep at the start of each prompt so he gets his full time.
+
+Big J answers his own way. Don't feed him your own 11/24 findings and don't put words in his mouth. After all the parts, ask him one last question: which three factors across the whole release matter most.
+
+Write ~/branch_work/oai719_parallel_20261124/bigj_via_voodoo_report.md with:
+1. his raw answer for each part, word for word;
+2. his top three;
+3. at the end, kept separate: where he agrees or disagrees with your own report (voodoo_report.md) and anything he found that you missed.
+
+If a call fails or he gets cut off, say so in the report and retry that part once. Take what is useful into your memory. Don't publish or send anything. Finish with a 3-sentence summary.
